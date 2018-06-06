@@ -1,0 +1,43 @@
+
+
+Dear Colleague,
+
+Our records indicate that you have either recently purchased, upgraded or self-registered a mobile device that is not currently enrolled in the GE Mobile Device Management (MDM) service called MobileIron.  This service is designed to help protect you and your GE data while using the device.  If your device has not arrived yet, please save this email and follow the instructions when you receive your device.
+
+What are we asking of you?
+
+In order to use GE Email and data services on your mobile device, please follow the instructions below to enroll your device.
+
+How to enroll?
+
+Prerequisite:
+
+Before you begin, please ensure your device is running Android OS 6.0 or later. (Check Android version)
+All device models of Huawei & ZTE manufacturers are NOT supported. (Check Supported Android Devices)
+Ensure you are NOT connected to BlueSSO, as it is not supported on Android. You must be connected with either 3G, 4G or a trusted WiFi connection.
+For all users
+
+Install the MobileIron GO Application:
+
+Open Play Store
+Search for the MobileIron GO application
+Install MobileIron GO
+Run the MobileIron GO application:
+
+Launch the MobileIron GO app from your device's home screen and fill in the required fields using the information below.
+User Name:	Your Email Address
+Password:	your sso password
+Registration PIN:	417665
+Expiration:	This PIN will expire in 10 days.
+
+
+Update your device's configuration, in accordance with IT policy, by following the "Configure" prompts.
+If you have recently refreshed/upgraded to a new device, please un-enroll your old device by following the instructions here.
+Additional Resources
+
+GE Mobile Device Privacy Notice
+If have additional questions or need support, please visit helpdesk.ge.com and select “Chat with the Helpdesk.”
+
+Thank you,
+MyTech – GE Global Mobility Team
+This is an unmonitored mailbox.  Please do not reply to this message.
