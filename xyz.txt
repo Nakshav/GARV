@@ -1,0 +1,72 @@
+GERITM0463368
+https://na.private.o365.ge.com/owa/
+
+https://meet.lync.com/gecompany/avidesh.panday/Y6RJ93K7
+
+
+link for mES
+
+https://vdcglq05530.ics.cloud.ge.com:8443/#/login
+
+password/username: 204055366   / proficy
+
+
+
+
+ RITM17766421
+
+
+playstore:mobileiron go  (blue color icon)
+
+ge email id then next page password and pin code
+
+--------------------------------------------
+LINKS:
+Please find below the links to our MES Confluence documentation:
+Functional specifications:
+ https://devcloud.swcoe.ge.com/devspace/display/IRLPA/Functional+Design
+Technical designs: 
+https://devcloud.swcoe.ge.com/devspace/display/IRLPA/Detailed+Design
+
+--
+Hi All,
+703199386
+
+ 
+
+Please go through below instruction sent by Avi ,so that he can grant access before start of Knowledge sharing call.
+
+Make sure to complete it by 5 PM tomorrow provide confirmation.
+
+ cf login -a https://api.system.asv-pr.ice.predix.io
+
+“In the meantime, can you please follow up to ensure the resources have access to the following links:
+•Confluence: https://devcloud.swcoe.ge.com/devspace/display/IRLPA/Grid+Solution%27s+Brilliant+Factory – resources will need to try to access the link before I can grant them access
+•Rally: https://rally1.rallydev.com/#/62476227618d/dashboard
+•Git: https://github.build.ge.com/gs-brilliant-factory - resources will need to create GE Git accounts before I can grant access
+
+“
+
+Regards
+
+Neeraj 
+
+
+SD110618_20762288
+SD130618_20763347
+
+Krishna Kumar TS 
+Cell: +91-7675856080 
+OHR: 850005260  level 3
+
+Vinay Madhok 
+Cell: +91-9871411214 
+OHR: 850020909 
+
+
+
+
+https://genpact.zoom.us/my/neerajr
+https://singapore-01-sg.connectge.com/
+https://cincinnati-01-us.connectge.com/
+ 
