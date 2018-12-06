@@ -15,6 +15,9 @@ VPN:
 http://corp.setpac.ge.com/pac.pac
 3.235.240.250 
 
+#2 http://trans.setpac.ge.com/pac.pac
+3.122.109.21
+
 +91 (44) 66525511
 access code: 99762010
 
